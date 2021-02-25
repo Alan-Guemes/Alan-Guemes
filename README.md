@@ -1,6 +1,6 @@
 ![](https://www.facebook.com/JellaSoftware/photos/a.299912217365276/300054314017733/)
 
-<a href="https://www.facebook.com/" target="_top"><img src="https://www.facebook.com/JellaSoftware/photos/a.299912217365276/300054314017733/" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+<a href="https://www.facebook.com/" target="_top"><img src="https://www.facebook.com/JellaSoftware/photos/a.299912217365276/300054314017733/" width="80" height="15"/></a>
 
 ¡Bienvenidos a mi perfil! <BR>
 Soy Alan, un gusto :eyes:
