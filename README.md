@@ -1,8 +1,5 @@
-¡Bienvenidos a mi perfil!
+¡Bienvenidos a mi perfil! <BR>
 Soy Alan, un gusto :eyes:
-
-<!--
-**Alan-Guemes/Alan-Guemes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
