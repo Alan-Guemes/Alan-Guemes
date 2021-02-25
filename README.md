@@ -1,9 +1,7 @@
 ¡Bienvenidos a mi perfil! <BR>
 Soy Alan, un gusto :eyes:
-  
-/play secret
 
-Here are some ideas to get you started:
+Acerca de mi:
 
 - :briefcase: Trabajo actualmente en Jella Software, un proyecto de emprendimiento personal de Desarrollo Web ...
 - :mortar_board: Tengo certificado como especializado en programación en el Cetis #58 y estudio actualmente en el Instituto Tecnológico de Tijuana ...
