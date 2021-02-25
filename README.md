@@ -1,5 +1,7 @@
 ¡Bienvenidos a mi perfil! <BR>
 Soy Alan, un gusto :eyes:
+  
+/play secret
 
 Here are some ideas to get you started:
 
