@@ -12,7 +12,7 @@
 - 👯 Busco colaborar en equipo, mi fuerte es el diseño y me considero alguien con liderazgo natural.
 - :computer: Busco aprender y mejorar mis habilidades como programador y diseñador.
 - 💬 Me interesan mucho los videojuegos, la música y la literatura de terror.
-- 📫 alanguemesii@hotmail.com ...
+- 📫 alanguemesii@hotmail.com.
 - :telephone_receiver: Mi télefono es: (+052) 6645090684 ó usa https://wa.me/526645090684
 
 <h4>Conocimientos:</h4>
