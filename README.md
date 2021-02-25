@@ -2,6 +2,9 @@
 
 <a href="https://www.facebook.com/" target="_top"><img src="https://www.facebook.com/JellaSoftware/photos/a.299912217365276/300054314017733/" width="80" height="15"/></a>
 
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v10.0" nonce="vbNdzuVb"></script>
+
 ¡Bienvenidos a mi perfil! <BR>
 Soy Alan, un gusto :eyes:
 
